@@ -1,6 +1,6 @@
 {
   "name": "@lostfeniks/ajs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "homepage": "https://github.com/LostFeniks/ajs#readme",
   "bugs": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/LostFeniks/ajs.git"
   },
-"publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "ISC",
   "author": "",
